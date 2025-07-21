@@ -1,0 +1,5 @@
+a=int"Enter the value"
+b=int"Enter the value"
+sum=(a+b)
+
+print(sum)
