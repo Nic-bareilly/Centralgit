@@ -1,9 +1,7 @@
-a=int"Enter the value"
-b=int"Enter the value"
-sum=(a+b)
+a=input("Enter the value= "
+
+127
+b=input("Enter the value")
+mul=a*b
 
-print(sum)
-if(a>b):
-print("a is greator than b")
-else:
-print("b is greator")
+print(mul)
