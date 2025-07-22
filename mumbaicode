@@ -3,3 +3,7 @@ b=int"Enter the value"
 sum=(a+b)
 
 print(sum)
+if(a>b):
+print("a is greator than b")
+else:
+print("b is greator")
