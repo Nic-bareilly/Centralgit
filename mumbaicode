@@ -5,3 +5,7 @@ b=input("Enter the value")
 mul=a*b
 
 print(mul)
+a=input("enter the value")
+b=input("enter the value")
+add=(a+b)
+print(add)
